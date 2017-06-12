@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Po",
+				"PoisonY"
+			],
+			[
+				"gam",
+				"isGameInProgress"
+			],
+			[
+				"g",
+				"greeting"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"d",
+				"deleteNode"
+			],
+			[
+				"node",
+				"nodePointing"
+			],
+			[
+				"val",
+				"Value"
+			],
+			[
+				"Linked",
+				"LinkedListNode"
+			],
+			[
+				"Lin",
+				"LinkedListNode"
+			],
+			[
+				"Li",
+				"LinkedListNode"
+			],
+			[
+				"inse",
+				"insertTest"
+			],
+			[
+				"cu",
+				"currentNode"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"L",
+				"LinkedList"
+			],
+			[
+				"in",
+				"insertNode"
+			],
+			[
+				"c",
+				"currentNode"
+			],
+			[
+				"Link",
+				"LinkedListNode"
+			],
+			[
+				"find",
+				"findRowValueInNextStep"
+			],
+			[
+				"json",
+				"jsonData"
+			],
+			[
+				"jso",
+				"jsonData"
+			],
+			[
+				"NSM",
+				"NSFileManager"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"ch",
+				"chessSize"
+			],
+			[
+				"check",
+				"checkAbleToPutQueen"
+			],
+			[
+				"che",
+				"chessboard"
+			],
+			[
+				"pri",
+				"printString"
+			],
+			[
+				"prn",
+				"printString"
+			],
+			[
+				"end",
+				"endIndex"
+			],
+			[
+				"start",
+				"startIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n\t\"manifest_version\":2,\n\t\"name\": \"Snake Game\",\n\t\"version\": \"0.1\",\n\t\"app\": {\n    \"background\": {\n    \t\"persistent\": false,\n      \"scripts\": [\"background.js\"]\n    }\n  \t},\n  \t\"permissions\": []\n}\n",
+			"file": "manifest.json",
+			"file_size": 167,
+			"file_write_time": 131411389660000000,
+			"settings":
+			{
+				"buffer_size": 193,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "background.js",
+			"settings":
+			{
+				"buffer_size": 344,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/objc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/objc.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/objc.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 279.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"swi",
+				"SwiftKitten: Display Documentation"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/abhiraj.kumar/Documents/opensource/chromeAddOn",
+		"/Users/abhiraj.kumar/Documents/opensource/chromeAddOn/Snake"
+	],
+	"file_history":
+	[
+		"/Users/abhiraj.kumar/Documents/opensource/chromeAddOn/Snake/Snake.sublime-project",
+		"/Users/abhiraj.kumar/Documents/opensource/chromeAddOn/Snake/popup.html",
+		"/Users/abhiraj.kumar/Documents/opensource/chromeAddOn/Snake/background.js",
+		"/Users/abhiraj.kumar/Documents/opensource/chromeAddOn/Snake/game.js",
+		"/Users/abhiraj.kumar/Documents/opensource/chromeAddOn/Snake/content.js",
+		"/Users/abhiraj.kumar/Documents/opensource/chromeAddOn/Snake/manifest.json",
+		"/Users/abhiraj.kumar/Documents/code/random/algorithm.cpp",
+		"/Users/abhiraj.kumar/Documents/code/random/LinkedList.cpp",
+		"/Users/abhiraj.kumar/Documents/code/test/fastlanedemo/FastalneDemo/fastlane/Fastfile",
+		"/Users/abhiraj.kumar/Documents/gaanauniversal/Gaana/Info.plist",
+		"/Users/abhiraj.kumar/Documents/opensource/automator/ObjectiveCModelCreatorFromJson/ocassion.json",
+		"/Users/abhiraj.kumar/Documents/unittest/a.m",
+		"/Users/abhiraj.kumar/Documents/unittest/array.m",
+		"/Users/abhiraj.kumar/Documents/opensource/automator/ObjectiveCModelCreatorFromJson/creater.m",
+		"/Users/abhiraj.kumar/Desktop/what/gaana3/3/smali/com/gaana/models/a",
+		"/Users/abhiraj.kumar/Desktop/what/gaana3/3/smali/com/gaana/models/UserStatus$ProductProperties.smali",
+		"/Users/abhiraj.kumar/Desktop/a.java",
+		"/Users/abhiraj.kumar/Desktop/GaanaPlusUserStatus.smali",
+		"/Users/abhiraj.kumar/Documents/Python/input.txt",
+		"/Users/abhiraj.kumar/Documents/Python/cptt.cpp",
+		"/Users/abhiraj.kumar/python-getting-started/app.json",
+		"/Users/abhiraj.kumar/Desktop/a.m",
+		"/Users/abhiraj.kumar/Documents/Python/halfofHAlf.cpp",
+		"/Users/abhiraj.kumar/Library/Application Support/Sublime Text 3/Packages/User/inputcpp.sublime-build",
+		"/Users/abhiraj.kumar/Documents/Python/quicksort.swift",
+		"/Users/abhiraj.kumar/Documents/Python/p.swift",
+		"/Users/abhiraj.kumar/Documents/Python/a",
+		"/Users/abhiraj.kumar/Library/Application Support/Sublime Text 3/Packages/User/swiftInput.sublime-build",
+		"/Users/abhiraj.kumar/Documents/Python/network.swift",
+		"/Users/abhiraj.kumar/Library/Application Support/Sublime Text 3/Packages/User/objc.sublime-build",
+		"/Users/abhiraj.kumar/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/abhiraj.kumar/Desktop/a.python",
+		"/Users/abhiraj.kumar/Downloads/odt-IV-5219ed958173f4004a653cfe8de50f6b00000000000000000000000000000000 (1).dat",
+		"/Users/abhiraj.kumar/Desktop/dummylogs",
+		"/private/var/folders/p9/h73p7x9s7hv663808z30scw4s60wfr/T/com.apple.dt.Xcode.pg/containers/com.apple.dt.playground.stub.iOS_Simulator.MyPlayground-EFBE6C46-C460-48E8-A692-F632FD48B04F/Documents/abhiraj2.dat",
+		"/Users/abhiraj.kumar/Downloads/odt-IV-5219ed958173f4004a653cfe8de50f6b00000000000000000000000000000000 (2).dat",
+		"/Users/abhiraj.kumar/Downloads/18-June-2016_files/jsloader.jsp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"draw",
+			"drawCross",
+			"gameOver",
+			"var",
+			"gameOver",
+			"isGameInProgress",
+			"gameOver",
+			"cout",
+			"==="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manifest.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "background.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 193.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "Snake.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
